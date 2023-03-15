@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 
     s.homepage          = 'https://github.com/AnyMindG/AnyManagerSDK.git'
 
-    s.author            = { 'Name' => 'anymanagersdk@gmail.com' }
+    s.author            = { 'Name' => 'plugindev@pokkt.com' }
 
     s.license           = { :type => 'Apache License, Version 2.0', :text => <<-LICENSE
     Licensed under the Apache License, Version 2.0 (the "License");
